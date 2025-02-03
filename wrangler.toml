@@ -1,0 +1,7 @@
+name = "newsnow-project"  # 你的项目名称
+type = "javascript"
+
+[[d1_databases]]
+binding = "NEWSNOW_DB"
+database_name = "newsnow_db"  
+database_id = "06b0bef3-fb7c-411e-8d48-e19d500dc624"
